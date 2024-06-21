@@ -78,6 +78,55 @@
         border-radius: 8px;
         transition: 2s;
     }
-   
+    #squareCont{
+        width: 360px;
+        height: 514px;
+        background-color: gray;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    #squareCont2{
+        width: 360px;
+        height: 514px;
+        background-color: cadetblue;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    #squareCont3{
+        width: 360px;
+        height: 514px;
+        background-color: darkgray;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    #painelCont{
+        display: flex;
+        flex-direction: row;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 54px;
+        gap: 40px;
+    }
+    .nRede{         
+       margin-top: 10px;
+    }
+    .textoContato{
+        text-align: justify;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+  
     
     
